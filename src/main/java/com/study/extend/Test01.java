@@ -11,7 +11,7 @@ abstract class Super{
         System.out.println("false = " + false);
     }
 }
-//测试Git分支
+//测试Git分支2
 public class Test01 extends Super {
     static {
         System.out.println("true = " + true);
