@@ -13,6 +13,7 @@ abstract class Super{
 }
 //测试Git分支2
 //测试Git分支1
+//在github上测试修改
 public class Test01 extends Super {
     static {
         System.out.println("true = " + true);
